@@ -59,7 +59,7 @@ de messages d'erreur sont lues sur l'ordinateur, sans être envoyées.
 
 ## Contact
 
-**TechMat Support** — contact.techmat@gmail.com — 07 83 45 64 24
+**TechMat Support** — contact.techmat@gmail.com — +41 78 345 64 24
 
 ---
 
